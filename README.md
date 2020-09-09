@@ -20,6 +20,9 @@ optional      curl - optional Parameters
 | Parameter | Description | Default |
 | :----: | --- | --- |
 | URL0 | required, URL that is called by CURL | |
+| URL1 ... URL09 | optional, other URLs that are called by CURL| |
+
+
 
 
 
