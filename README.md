@@ -20,3 +20,12 @@ optional      curl - optional Parameters
 | Parameter | Description | Default |
 | :-------: | ....| .... |
 | URL0 | required, URL that is called by CURL | |
+
+
+
+
+| Architecture | Tag |
+| :----: | --- |
+| x86-64 | amd64-latest |
+| arm64 | arm64v8-latest |
+| armhf | arm32v7-latest |
