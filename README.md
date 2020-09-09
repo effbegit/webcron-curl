@@ -16,3 +16,7 @@ optional      Interval between calls in seconds / Default: 300
 
 ### CURL_PARAM      
 optional      curl - optional Parameters 
+
+| Parameter | Description | Default |
+| :-------: | ....| .... |
+| URL0 | required, URL that is called by CURL | |
