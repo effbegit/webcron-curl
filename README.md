@@ -15,8 +15,7 @@ based on cw1/docker-webcron
 | CURL_PARAM | optional, curl - optional Parameters | |
 
 ## Docker compose
-
-''''console
+```
 version: '2'
 
 services:
@@ -38,4 +37,4 @@ services:
       - URL9=https://example9.com  #optional
       - INTERVAL_TIME=300          #optional
       - CURL_PARAM="--insecure"    #optional
-''''
+```
