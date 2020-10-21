@@ -17,9 +17,7 @@ based on cw1/docker-webcron
 ## Docker compose:
 ```
 version: '2'
-
 services:
-
   dyndns:
     image: effbe/webcron-curl
     container_name: mydyndns
