@@ -1,7 +1,7 @@
 # webcron-curl
 webcron with curl - up to 10 URL are called regularly - helpful for DynDNS
 
-based on cw1/docker-webcron ==> https://github.com/cw1/docker-webcron
+based on cw1/docker-webcron ==> Github: https://github.com/cw1/docker-webcron ==> Docker: https://hub.docker.com/r/cw1900/docker-webcron
 
 ## Parameter:
 
