@@ -14,7 +14,7 @@ based on cw1/docker-webcron
 | INTERVAL_TIME | optional, Interval between calls in seconds | 300 |
 | CURL_PARAM | optional, curl - optional Parameters | |
 
-## Docker compose
+## Docker compose:
 ```
 version: '2'
 
